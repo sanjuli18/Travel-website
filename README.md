@@ -7,4 +7,8 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
+## Live Demo
+
+https://sanjuli18.github.io/Travel-website/
+
 ![travel-website](/preview.png)
